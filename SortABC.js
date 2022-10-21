@@ -1,4 +1,5 @@
-//Exercise: The user gives 3 numbers, stored in the variables a,b,c respectively. Write a Javascript program that changes their values, from the smallest to the bigger (i.e., a<=b<=c)
+//Exercise: The user gives 3 numbers, stored in the variables a,b,c respectively. Write a Javascript program that changes their values,
+//from the smallest to the bigger (i.e., a<=b<=c)
 let a = prompt("Assign a value for variable a");
 let b = prompt("Assign a value for variable b");
 let c = prompt("Assign a value for variable c");
